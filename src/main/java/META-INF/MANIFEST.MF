@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: bcprov-jdk14-138.jar fastjson-1.2.58.jar bctsp-jdk14-1.38.
+ jar bcmail-jdk14-138.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar 
+ itext-2.1.7.jar
+Main-Class: com.zyjl.MainApp
+
